@@ -1,4 +1,4 @@
-# Week1 #
+# Week1 (12-16 Jan)
 # Getting familiar with Data types and Visualization
 Step 1: Download the dataset files belong to the following data formats from internet. The files may belong to any dataset available online.
 Step 2: Read these files inside the python code. Some of the file formats cannot be read using default python packages. In this case, explore the python packages suitable for reading the files. Step 3: Print the properties of the data files such as size, shape, dimensions, etc.
@@ -30,5 +30,5 @@ Step 4: Visualize each of these data files using graphs, diagrams, etc.
 6.	Text Data Formats
 •	TXT, PDF, DOC – Read and parse the data
 
-## Suggested Platform: Python: Azure Notebook/Google Colab Notebook, packages such as Numpy, Pandas, Sklearn, matplotlib. ##
+# Suggested Platform: Python: Azure Notebook/Google Colab Notebook, packages such as Numpy, Pandas, Sklearn, matplotlib
 
