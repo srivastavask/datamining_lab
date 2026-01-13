@@ -1,1 +1,2 @@
-
+Pima Indian Diabetes Dataset
+url = "https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv"
